@@ -1,0 +1,23 @@
+{
+  "name": "placement-cell",
+  "version": "1.0.0",
+  "description": "This is an placement cell application designed for coding ninjas skill test.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Astik991/Placement-Cell.git"
+  },
+  "author": "Astik Mishra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Astik991/Placement-Cell/issues"
+  },
+  "homepage": "https://github.com/Astik991/Placement-Cell#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node": "^20.1.0"
+  }
+}
