@@ -19,4 +19,9 @@ This project is for coding ninjas plcement cell skill test.
 └── validator@13.7.0
 
  ## For LocalSystem :
-for this objective user can download the repository from git and then extract the folder and then type npm start
+for this objective user can download the repository from git and then extract the folder and then type 
+npm install node express node-fetch 
+and then 
+nodemon index.js
+and then go the browser and type
+127.0.0.1:5000
